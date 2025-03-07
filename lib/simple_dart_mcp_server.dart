@@ -1,8 +1,7 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
 library;
-
 export 'src/simple_dart_mcp_server_base.dart';
+export 'src/tool.dart';
+export 'src/transport/transport.dart';
+export 'src/transport/websocket.dart';
+export 'src/transport/stdio.dart';
 
-// TODO: Export any libraries intended for clients of this package.
